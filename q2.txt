@@ -1,0 +1,3 @@
+Q. What happens if you remove the rows and cols attributes? How does the textarea's appearance change?
+
+ans: When we remove the rows and cols attributes, the textarea shrinks into a smaller, standard-sized box by default.  
