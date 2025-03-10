@@ -1,0 +1,28 @@
+th{
+	height:40px;
+	text-align:center;
+	color:#dc143c;
+	font:oblique 20px "Times New Roman";
+	background-color:#e6e6fa;
+}
+caption{
+	color:#a0522d;
+	font:30px cursive;
+}
+td{
+	background-color:#fffacd;
+	color:#8a2be2;
+	text-align:center;
+	font-family:georgia;
+}
+table{
+	border:2px solid;
+	width:50%;
+}
+table,th,td{
+	border:1px solid;
+}
+
+
+
+
